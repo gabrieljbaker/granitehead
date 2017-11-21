@@ -123,16 +123,16 @@
   ],
   "images": [
     {
-      "uri": "textures/Scene%20-%20Root_emissive.png"
+      "uri": "Scene%20-%20Root_emissive.png"
     },
     {
-      "uri": "textures/Scene%20-%20Root_metallicRoughness.png"
+      "uri": "Scene%20-%20Root_metallicRoughness.png"
     },
     {
-      "uri": "textures/Scene%20-%20Root_normal.png"
+      "uri": "Scene%20-%20Root_normal.png"
     },
     {
-      "uri": "textures/Scene%20-%20Root_baseColor.png"
+      "uri": "Scene%20-%20Root_baseColor.png"
     }
   ],
   "materials": [
